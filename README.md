@@ -1,4 +1,3 @@
-# test--repository
-This is a test description
+# My very first repo
 
-This is a new edit from my local computer. 
+Kalob has been a really Amazing teacher. I will give 5 stars
